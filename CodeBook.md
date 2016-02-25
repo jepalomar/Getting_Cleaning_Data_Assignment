@@ -1,4 +1,4 @@
- #Code Book
+Code Book
 ==========================================
 
 This code book details the processing done to the data obtained from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.
