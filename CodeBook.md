@@ -23,7 +23,7 @@ There are training and tests sets. For each record it is provided:
  * An identifier of the subject who carried out the experiment.
 For more information you can visit [this link](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) 
 
-## Analysis script.
+## Analysis script
 
 The script in run_analysis.R achieves the following five goals:
 
@@ -33,7 +33,7 @@ The script in run_analysis.R achieves the following five goals:
  * Appropriately labels the data set with descriptive variable names.
  * From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject. This tidy data set is stored in a file called tidyData.txt.
 
-The script ###assumes that you have downloaded the files and sets the working directory to an specific one. You need to change the line where the working directory is set and change it to point to your working directory.
+###The script assumes that you have downloaded the files and sets the working directory to an specific one. You need to change the line where the working directory is set and change it to point to your working directory.
 
 ## Tidy data set
 
